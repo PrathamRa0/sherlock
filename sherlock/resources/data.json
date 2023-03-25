@@ -1251,6 +1251,7 @@
   "LinkedIn": {
     "errorMsg": "status_code",
     "errorType": "message",
+    "regexCheck": "^[a-z\\-]+$",
     "url": "https://www.linkedin.com/in/{}",
     "urlMain": "https://www.linkedin.com/",
     "username_claimed": "alex"
