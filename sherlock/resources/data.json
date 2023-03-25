@@ -1248,6 +1248,13 @@
     "urlMain": "https://linktr.ee/",
     "username_claimed": "anne"
   },
+  "LinkedIn": {
+    "errorMsg": "status_code",
+    "errorType": "message",
+    "url": "https://www.linkedin.com/in/{}",
+    "urlMain": "https://www.linkedin.com/",
+    "username_claimed": "alex"
+  },
   "Listed": {
     "errorType": "response_url",
     "errorUrl": "https://listed.to/@{}",
